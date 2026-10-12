@@ -1,0 +1,9 @@
+{
+  "name": "lambda-review",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "aws-lambda": "^1.0.7"
+  }
+}
